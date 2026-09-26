@@ -1,6 +1,6 @@
 # Horudev
 
-Sito statico in italiano: Home, Progetti, Store, Contatti e Termini/privacy.
+Sito statico in italiano: Home, Progetti, Toodo, Store, Contatti e Termini/privacy.
 
 Per l'anteprima locale: `python -m http.server 4173 --directory dist`.
 
@@ -13,3 +13,6 @@ Da completare prima del lancio pubblico:
 - Il mockup Toodo è un concept grafico, non uno screenshot del prodotto.
 
 Tema e preferenza cookie sono salvati in localStorage. Non sono presenti analytics o cookie pubblicitari. Le animazioni rispettano prefers-reduced-motion.
+
+La pagina /toodo/ contiene il modulo Closed Alpha. La richiesta viene preparata come email; il visitatore completa l'invio dal proprio programma di posta. Nessuna iscrizione o ammissione automatica.
+
